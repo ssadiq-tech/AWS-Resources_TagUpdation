@@ -32,4 +32,4 @@ jobs:
 
       - name: Run tag update script
         run: |
-          python tag_update.py
+          python tag_updater.py
