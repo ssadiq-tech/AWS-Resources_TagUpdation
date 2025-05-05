@@ -9,7 +9,6 @@ response = client.get_resources(
         's3:bucket',
         'dynamodb:table',
         'rds:db',
-        'ec2:vpc'
     ]
 )
 
